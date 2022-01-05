@@ -1,1 +1,9 @@
-line{stroke:#000;stroke-width:.2px}
+svg > * {
+  stroke: black;
+  stroke-width: 0.2px;
+  fill: none;
+}
+svg text {
+  fill: black;
+  stroke: none;
+}
