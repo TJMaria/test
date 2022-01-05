@@ -1,9 +1,0 @@
-svg > * {
-  stroke: black;
-  stroke-width: 0.2px;
-  fill: none;
-}
-svg text {
-  fill: black;
-  stroke: none;
-}
